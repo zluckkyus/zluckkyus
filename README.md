@@ -1,7 +1,7 @@
 
 # 🌟 Bem-Vindo(a) ao meu Github
 
-- Eu sou lucky, estou com alguns projetos feito por mim ou editados, sou um programador iniciante com bastante sonhos!
+- **Eu sou lucky, estou com alguns projetos feito por mim ou editados, sou um programador iniciante com bastante sonhos!**
 
 # Discord
 ![](https://discord.c99.nl/widget/theme-4/835317840911269898.png)
@@ -26,7 +26,7 @@
     <p align="center">
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
         <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-        <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/vscode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
       </p>
 </div>
 
@@ -34,5 +34,5 @@
 - [x] Discord Bot Source - (*Discord.js Atualizou!*)
 
 # Algum Projeto em mente?
-- Sim! Eu pretendo criar uma api super simples, eu fiz uma api de anime porém não publiquei aqui! se quiser ver ela ou usar me chame no meu discord! 
+- **Sim! Eu pretendo criar uma api super simples, eu fiz uma api de anime porém não publiquei aqui! se quiser ver ela ou usar me chame no meu discord!** 
 - ***zLuckkyUS#3734***
