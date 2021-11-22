@@ -9,7 +9,7 @@
 <p align="left">
     <div align="center">
         <a href="https://github.com/zluckkyus?tab=followers">
-            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/zluckkyus?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">
+            <img align="left" alt="Follow" src="https://img.shields.io/github/followers/zluckkyus?style=flat&amp;logo=github&amp;label=Seguidores&amp;color=2D76BF">
             <img align="left" alt="Visitors" src="https://komarev.com/ghpvc/?username=zLuckkyUS">
         </a>
     </div>
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-      <h2>Liguagens / Programas que utilizo:</h2>
+      <h2>Linguagens / Programas que utilizo:</h2>
     <p align="center">
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
         <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
@@ -31,7 +31,7 @@
 </div>
 
 # Projetos Finalizados
-- [x] Discord Bot Source - (*Discord.js Atualizou!*)
+- [x] Discord Bot Source - (*Discord.js Atualizou! V13*)
 
 # Algum Projeto em mente?
 - **Sim! Eu pretendo criar uma api super simples, eu fiz uma api de anime porém não publiquei aqui! se quiser ver ela ou usar me chame no meu discord!** 
